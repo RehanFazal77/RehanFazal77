@@ -3,12 +3,12 @@
 I'm [Your Name], a [your role/title] passionate about [key interests/technologies].
 
 ## 🔭 Current Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
+- K8s Gracefull Pod Termination
+- Conf-Ticket-Booking-App 
 
 ## 🌱 I'm currently learning
-- [Skill/Technology 1]
-- [Skill/Technology 2]
+- Kubernetes
+- Computer Networking
 
 ## 💼 Skills
 - **Languages**: Go,Python,Java,Javascript,C,C++
