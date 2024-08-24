@@ -16,7 +16,7 @@ I'm [Your Name], a [your role/title] passionate about [key interests/technologie
 - **Tools**: Kubernetes,Docker,Helm,Kubearmor,Promehteus,Grafana
 
 ## 📫 How to reach me
-- LinkedIn: linkedin.com/in/fazal2r
+- LinkedIn: https://www.linkedin.com/in/fazal2r
 - Email: mdrehanfazal326@gmail.com
 - Twitter: https://x.com/fazal2r
 
