@@ -27,5 +27,5 @@ I'm Rehan Fazal, a Cloud Native & DevOps Enthusiast | Open Source Contributor.
 ![](https://github-profile-trophy.vercel.app/?username=RehanFazal77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 Contribution Graph
-![snake gif](https://github.com/RehanFazal77/RehanFazal77/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/RehanFazal77/blob/output/github-contribution-grid-snake.gif)
 
