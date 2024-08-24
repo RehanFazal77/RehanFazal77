@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm [Your Name], a [your role/title] passionate about [key interests/technologies].
+I'm Rehan Fazal, a Cloud Native & DevOps Enthusiast | Open Source Contributor.
 
 ## 🔭 Current Projects
 - K8s Gracefull Pod Termination
