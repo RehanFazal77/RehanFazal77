@@ -2,6 +2,14 @@
 
 I'm Rehan Fazal, a Cloud Native & DevOps Enthusiast | Open Source Contributor.
 
+<!--Snake Contribution Graph-->    
+    
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+    
+<br/>
+    
+<!--Snake Contribution Graph Ends--> 
+
 ## 🔭 Current Projects
 - K8s Gracefull Pod Termination
 - Conf-Ticket-Booking-App 
